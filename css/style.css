@@ -1,0 +1,27 @@
+.box1{
+	 min-height: 100px;
+	 background-color: rosybrown;
+}
+.box2{
+	 min-height: 100px;
+	 background-color: grey;
+}
+.box3{
+	 min-height: 100px;
+	 background-color: aqua;
+}
+.box4{
+	 min-height: 100px;
+	 background-color: whitesmoke;
+}
+.box5{
+	 min-height: 100px;
+	 background-color: purple;
+}
+.box6{
+	 min-height: 100px;
+	 background-color: lightblue;}
+.content{
+	text-align: center;
+	margin-top: 50px;
+}

@@ -1,0 +1,208 @@
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+ .box1{
+     
+     background-color: grey;
+}
+.box2{
+     
+     background-color: rosybrown;
+}
+.box3{
+     
+     background-color: whitesmoke;
+}
+.box4{
+     
+     background-color: aqua ;
+}
+.box5{
+     
+     background-color: lightblue;
+}
+.box6{
+     
+     background-color: purple;
+}
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ .box1{
+     
+     background-color: lightblue;
+}
+.box2{
+     
+     background-color: purple ;
+}
+.box3{
+     
+     background-color: whitesmoke;
+}
+.box4{
+     
+     background-color: aqua;
+}
+.box5{
+     
+     background-color: grey;
+}
+.box6{
+     
+     background-color:rosybrown ;
+ }
+}
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+ .box1{
+     
+     background-color: aqua;
+}
+.box2{
+     
+     background-color: whitesmoke;
+}
+.box3{
+     
+     background-color: rosybrown;
+}
+.box4{
+     
+     background-color:  grey;
+}
+.box5{
+    
+     background-color: lightblue;
+}
+.box6{
+    
+     background-color: purple;
+}
+}
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.box1{
+    
+     background-color: antiquewhite;
+}
+.box2{
+    
+     background-color: purple;
+}
+.box3{
+    
+     background-color: lightblue;
+}
+.box4{
+    
+     background-color: rosybrown;
+}
+.box5{
+    
+     background-color: grey;
+}
+.box6{
+    
+     background-color: aqua;
+ }
+}
+ /*Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+.box1{
+    
+     background-color: rosybrown;
+}
+.box2{
+          background-color: grey;
+}
+.box3{
+          background-color: aqua;
+}
+.box4{
+          background-color: whitesmoke;
+}
+.box5{
+          background-color: purple;
+}
+.box6{
+          background-color: lightblue;
+ 
+ }
+}
+  /*Extra large devices (Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) { 
+  .box1{
+          background-color: red;
+}
+.box2{
+     
+     background-color: green;
+}
+.box3{
+     
+     background-color: yellow;
+}
+.box4{
+     
+     background-color: blue;
+}
+.box5{
+     
+     background-color: purple;
+}
+.box6{
+     
+     background-color: black;  
+ } 
+}
+ /*Extra large devices (Extra large desktops, 1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1899.98px) { 
+    
+ .box1{
+     
+     background-color: blue;
+}
+.box2{
+     
+     background-color: purple;
+}
+.box3{
+     
+     background-color: black;
+}
+.box4{
+     
+     background-color: red;
+}
+.box5{
+          background-color:green;
+}
+.box6{
+          background-color: yellow;
+ } 
+}
+ /*Extra large devices (Extra large desktops, 1900px and up)*/
+@media (min-width: 1900px) and (max-width: 2099.98px) { 
+   .box1{
+          background-color: purple;
+}
+.box2{
+          background-color: blue;
+}
+.box3{
+          background-color: black;
+}
+.box4{
+          background-color:red;
+}
+.box5{
+          background-color: yellow;
+}
+.box6{
+         background-color: black; 
+ }
+}
+ /*Extra Extra Large devices (Extra Extra large desktops, 2100px and up) */
+@media (min-width: 2100px) { 
+ }
